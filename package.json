@@ -1,6 +1,6 @@
 {
   "name": "@0y0/jest-allure-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/o0y0o/jest-allure-reporter",
   "author": "Jason Chung <shiningjason1989@gmail.com>",
   "license": "MIT",
