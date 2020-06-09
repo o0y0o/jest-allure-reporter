@@ -1,0 +1,19 @@
+{
+  "name": "@0y0/jest-allure-reporter",
+  "version": "1.0.0",
+  "repository": "https://github.com/o0y0o/jest-allure-reporter",
+  "author": "Jason Chung <shiningjason1989@gmail.com>",
+  "files": [
+    "/lib"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Ignore test.\""
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
