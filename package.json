@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/o0y0o/jest-allure-reporter",
   "author": "Jason Chung <shiningjason1989@gmail.com>",
+  "license": "MIT",
   "files": [
     "/lib"
   ],
