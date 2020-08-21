@@ -1,1 +1,1 @@
-# @0y0/jest-allure-reporter
+# @0y0/jest-allure-reporter · [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/o0y0o/jest-allure-reporter/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/@0y0/jest-allure-reporter.svg)](https://www.npmjs.com/package/@0y0/jest-allure-reporter) ![Package Status](https://github.com/o0y0o/jest-allure-reporter/workflows/Package/badge.svg)
