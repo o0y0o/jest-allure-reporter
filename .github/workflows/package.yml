@@ -1,8 +1,9 @@
 name: Package
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - master
 
 jobs:
   publish:
@@ -14,6 +15,6 @@ jobs:
           node-version: 14
           registry-url: https://registry.npmjs.org/
       - run: yarn install --frozen-lockfile
-      - run: yarn publish
+      - run: yarn pkg
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
