@@ -1,6 +1,6 @@
 {
   "name": "@0y0/jest-allure-reporter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A custom Jest reporter to compatible with Allure.",
   "main": "lib/index.js",
   "repository": "https://github.com/o0y0o/jest-allure-reporter",
@@ -13,10 +13,10 @@
     "pkg": "[ $(yarn info $npm_package_name version) != $npm_package_version ] && yarn publish || echo Skip publishing due to v$npm_package_version exist"
   },
   "dependencies": {
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^9.1.0",
     "param-case": "^3.0.4"
   },
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "^2.2.1"
   }
 }
